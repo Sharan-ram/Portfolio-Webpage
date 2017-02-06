@@ -1,0 +1,90 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    /* font-family:'Indie Flower', cursive; */
+
+}
+
+
+
+body {
+    overflow-x:hidden;
+
+}
+
+.even_margin {
+    margin-top: 20px;
+}
+.sharan_img {
+    width:25%;
+    box-shadow: 5px 5px 3px #888888;
+
+}
+
+.social a {
+    text-decoration: none;
+}
+
+.social a :hover,
+.social a :focus {
+    text-decoration: none;
+    color:black;
+    text-shadow: 0px 0px 3px #111;
+}
+
+.links {
+    margin:8px;
+    color:#666;
+}
+
+hr {
+    width:80%;
+    color:black;
+    margin-left: auto;
+    margin-right: auto;
+    border-top:5px solid silver;
+}
+
+p {
+    font-size:16px;
+}
+.bold {
+    font-weight:bold;
+}
+
+h1,h2,h3 {
+    font-weight:bold;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.portfolio_images {
+    width:70%;
+    margin-left: auto;
+    margin-right: auto;
+    height:150px;
+}
+
+figcaption {
+    color:#666;
+}
+
+.footer {
+
+    background-color:#2e2e1f;
+    height:40px;
+}
+
+.footer_copyright {
+    display:flex;
+}
+
+.footer_p {
+    font-size:16px;
+    color:white;
+    text-align: right;
+
+}
+
+
